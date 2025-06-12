@@ -19,7 +19,7 @@
 - Building web apps using HTML/CSS + Flask
 
 📫 How to reach me:
-- LinkedIn: [Your LinkedIn URL here]
+- LinkedIn: [www.linkedin.com/in/talha-anjum-31a86a328]
 - Email: [talhaanjum08@gmail.com]
 
 ⚡ Fun fact: I love turning messy datasets into powerful insights!
@@ -60,5 +60,5 @@
 
 <p align="center">
   <a href="https://github.com/TalhaAjum"><img src="https://img.shields.io/github/followers/TalhaAjum?label=Follow&style=social" alt="GitHub Badge" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn Badge" /></a>
+  <a href="www.linkedin.com/in/talha-anjum-31a86a328"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" alt="LinkedIn Badge" /></a>
 </p>
